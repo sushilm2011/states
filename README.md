@@ -1,12 +1,9 @@
 # states
-<<<<<<< HEAD
 
-A new Flutter application.
+A Flutter Application which lists all the states and respective districts of India.
+I recently attended a workshop on Flutter this app is a result of that workshop.
 
-## Getting Started
+# Getting Started
 
 For help getting started with Flutter, view our online
 [documentation](https://flutter.io/).
-=======
-An app which lists all the states of India and its districts
->>>>>>> abb750b756c9a04640520f970f6fbdb042d9a03e
